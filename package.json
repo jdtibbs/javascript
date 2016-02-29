@@ -1,0 +1,14 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "A project for anything javascript, reference, sandbox, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape app/**/*test.js"
+  },
+  "author": "jdtibbs",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.4.0"
+  }
+}
